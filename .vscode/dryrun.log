@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/yukis4san/first-git'
+make: Leaving directory `/Users/yukis4san/first-git'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 

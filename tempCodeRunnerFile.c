@@ -1,1 +1,5 @@
-    a = i/1000; // 4桁目の取得
+	// for (i = 0; i< count; i++) {
+	// 	ShowPeople(data[i]);
+	// }
+
+	// free(data);
